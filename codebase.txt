@@ -1,0 +1,7 @@
+function feature1() {
+	echo "this is ft. 1";
+}
+
+function feature2() {
+	echo "this is ft. 2";
+}
