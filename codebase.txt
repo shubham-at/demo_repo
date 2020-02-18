@@ -9,3 +9,7 @@ function feature2() {
 function feature3() {
 	echo "this is added ft";
 }
+
+function ft_added() {
+	ehco "new ft added";
+}
