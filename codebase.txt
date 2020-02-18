@@ -5,3 +5,7 @@ function feature1() {
 function feature2() {
 	echo "this is ft. 2";
 }
+
+function feature3() {
+	echo "this is added ft";
+}
