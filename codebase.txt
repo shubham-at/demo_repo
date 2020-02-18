@@ -17,4 +17,3 @@ function ft_added() {
 function feature4() {
 	echo "this is new ft";
 }
-ehco "hello world";
