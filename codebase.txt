@@ -18,3 +18,7 @@ function feature4() {
 	echo "this is new ft";
 	echo "once more";
 }
+
+function called() {
+	echo "inside";
+}
